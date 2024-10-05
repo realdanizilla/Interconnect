@@ -7,6 +7,7 @@
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
   - [Key Insights and Learnings](#key-insights-and-learnings)
   - [What I Learned From This Project](#what-i-learned-from-this-project)
+  - [How to use this repository](#how-to-use-this-repository)
 
 
 ## Project Objective
@@ -108,5 +109,23 @@ The objective of the project was to predict customer churn for Interconnect, a c
 
 - **Feature Engineering and Analysis**:
   - Developed a deeper understanding of how to create and analyze features to maximize predictive power in binary classification tasks.
+
+[back to top](#predicting-customer-churn-for-interconnect)
+
+## How to use this repository
+
+1. **Clone the repository** <br>
+[https://github.com/realdanizilla/Interconnect.git](https://github.com/realdanizilla/Interconnect.git)
+2. **Install Dependencies:**  
+Navigate to the repository directory and install required Python packages. <Br>
+(cd Interconnect pip install -r requirements.txt)
+
+
+3. **Run the Notebook**  
+Open and explore the Jupyter Notebook to understand data preprocessing, feature engineering, and model training.
+
+
+4. **Experiment and Tweak Models**  
+Customize the model parameters or try different algorithms to improve the AUC-ROC score.
 
 [back to top](#predicting-customer-churn-for-interconnect)
